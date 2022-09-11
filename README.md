@@ -1,0 +1,1 @@
+Image Shuffler is used to shuffle any image.
